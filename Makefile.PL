@@ -27,7 +27,7 @@ my %WriteMakefileArgs = (
     "XML::XPath" => "1.13"
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
